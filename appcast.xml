@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Sproke</title>
+        <item>
+            <title>0.42.0</title>
+            <pubDate>Tue, 14 Jul 2026 09:16:40 +0200</pubDate>
+            <sparkle:version>146</sparkle:version>
+            <sparkle:shortVersionString>0.42.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/rolfdr/sproke-releases/main/Sproke-0.42.0.dmg" length="8734463" type="application/octet-stream" sparkle:edSignature="JJQUuGFx3VXOq0ZikZsYpzShGU4ftqnkqSD/x9OkW2rMlm7gjqqCVIzKT+b+3rvxFv1GlMyit2kKyCPxrGGGBw=="/>
+        </item>
+    </channel>
+</rss>
