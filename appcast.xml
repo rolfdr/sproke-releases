@@ -3,6 +3,22 @@
     <channel>
         <title>Sproke</title>
         <item>
+            <title>0.44.9</title>
+            <pubDate>Tue, 14 Jul 2026 16:20:45 +0200</pubDate>
+            <sparkle:version>160</sparkle:version>
+            <sparkle:shortVersionString>0.44.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/rolfdr/sproke-releases/main/Sproke-0.44.9.dmg" length="8820117" type="application/octet-stream" sparkle:edSignature="BMJ06to1btCn/8MGzon1MGZJhTOGixzPse0F8o11RlhKy6dGZ0HXG5fFg2ghL2Q8Rlw1yhaIc8i4RpbAkTwrBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/rolfdr/sproke-releases/main/Sproke160-158.delta" sparkle:deltaFrom="158" length="621634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Wi1gLz1t4QPDw9+A3dRl+WYAdaFPjqHojZ24X69J3RdEqWO6kJe2etMJ8fq0/ZfSa31saN232jM4SavIbMAzAQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/rolfdr/sproke-releases/main/Sproke160-157.delta" sparkle:deltaFrom="157" length="716074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0PJrSRDmDeOxAEp97uOcyH74qh1s1gS4keZaeTr5jie8e2VNpZuAZfF5lhRq1WhzHxzbfxPucahM+qKqQbxKAg=="/>
+                <enclosure url="https://raw.githubusercontent.com/rolfdr/sproke-releases/main/Sproke160-154.delta" sparkle:deltaFrom="154" length="690898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ePoOR6t+EBBb+vAtg0+hbpP3m1r9C2l92cLh8ONWD2+kndELnNqDDig1O3NeEElATCaOIU3JcYrMLWzhsqV+Bw=="/>
+                <enclosure url="https://raw.githubusercontent.com/rolfdr/sproke-releases/main/Sproke160-153.delta" sparkle:deltaFrom="153" length="765086" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="S5NdO8wd9Dn8C3g5eQWRlSbQOMJaiMUDuSQFUFK4KxAEssomnbq4zpQJ+YgCdzxNbXwNTaMTq1mSxWULbui6Aw=="/>
+                <enclosure url="https://raw.githubusercontent.com/rolfdr/sproke-releases/main/Sproke160-152.delta" sparkle:deltaFrom="152" length="760522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+V5M4+xf7CekqWeRgVtKr6cmqoLA/xLrSb2j0pWcn52+450+BzwF5hc9G5COwJXkIrCbZxk4sHlhd4amMFtfAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.44.7</title>
             <pubDate>Tue, 14 Jul 2026 15:39:10 +0200</pubDate>
             <sparkle:version>158</sparkle:version>
@@ -31,20 +47,6 @@
                 <enclosure url="https://raw.githubusercontent.com/rolfdr/sproke-releases/main/Sproke157-153.delta" sparkle:deltaFrom="153" length="783890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RcPt1ctcDKBWgJPNY8AQW+JJv1Z0O2Lr/rynpKbnFcMB5RRxKppxfS1IXDw6YFHkjoKhLrbERh0RO9HDQip+Ag=="/>
                 <enclosure url="https://raw.githubusercontent.com/rolfdr/sproke-releases/main/Sproke157-152.delta" sparkle:deltaFrom="152" length="791138" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+IV8c/AVPr5iD4ccsEE3ylzmyGrqpMi3MdST7avRkf2yNZhVzgPL9X/1yzecnZenlUIty8KvesxdeUzj2qrhAw=="/>
                 <enclosure url="https://raw.githubusercontent.com/rolfdr/sproke-releases/main/Sproke157-151.delta" sparkle:deltaFrom="151" length="796294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="23AOCXpUAd53S88aXAJAY8lK/c4NQI4o0aeHrRet6vxO7H1gQgmoezHPMCnWwSVIiw93k9Vtcvyi/zZZmmJ2AQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.44.3</title>
-            <pubDate>Tue, 14 Jul 2026 12:13:00 +0200</pubDate>
-            <sparkle:version>154</sparkle:version>
-            <sparkle:shortVersionString>0.44.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/rolfdr/sproke-releases/main/Sproke-0.44.3.dmg" length="8818606" type="application/octet-stream" sparkle:edSignature="Tkww6AAQ2HlmxwDYheb7RdD4ltkGXItCes6JtzsTEJ7on1WUb+6cKKdNVmLupFYANosPpQn4mHzReMQ6/YTnAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/rolfdr/sproke-releases/main/Sproke154-153.delta" sparkle:deltaFrom="153" length="618130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tV+soAorcfhtQhfqD57z6NJmbtXm5oEiEQxTl/HZORYCEKjrFh/AClmKcCmA7HxWiM00PGtwKg/Gg2sJBUTdBg=="/>
-                <enclosure url="https://raw.githubusercontent.com/rolfdr/sproke-releases/main/Sproke154-152.delta" sparkle:deltaFrom="152" length="632682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GT7OtjQZjuH3QjRgQsSTW9+XoO1GsenRW+Bfjdj+fqXAbPJhSRE/WqFy/M/FA93sa6l7GPkFVirIPpcN/Ut3CA=="/>
-                <enclosure url="https://raw.githubusercontent.com/rolfdr/sproke-releases/main/Sproke154-151.delta" sparkle:deltaFrom="151" length="669482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1pxLBTS6Qms91tmbynOJqIZfzU7g6QAVjlrQhK2lOV9dvUCcpyI7fjEfrrAJDec/od8qrDYZCnDB/0QA/91cAQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
