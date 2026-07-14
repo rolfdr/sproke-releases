@@ -3,6 +3,18 @@
     <channel>
         <title>Sproke</title>
         <item>
+            <title>0.42.1</title>
+            <pubDate>Tue, 14 Jul 2026 09:22:05 +0200</pubDate>
+            <sparkle:version>147</sparkle:version>
+            <sparkle:shortVersionString>0.42.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/rolfdr/sproke-releases/main/Sproke-0.42.1.dmg" length="8740528" type="application/octet-stream" sparkle:edSignature="44wA7pgZMor1oc5dUHciNTmT62sga9jJXICkfBUq7PPUB0mRyyWg1MvJq5dVB/6I8AMiWqQiNlOIpCbkHTduCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/rolfdr/sproke-releases/main/Sproke147-146.delta" sparkle:deltaFrom="146" length="542910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="s1FyrdeE0C1dB2fBOb0Gizp0Zd3aqD6l3jUjNeLEhZJUnnRZr0LxH4OBmqAKi38LOIVHnFlYnQ86KLWYmMecCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.42.0</title>
             <pubDate>Tue, 14 Jul 2026 09:16:40 +0200</pubDate>
             <sparkle:version>146</sparkle:version>
